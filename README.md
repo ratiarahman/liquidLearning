@@ -5,3 +5,4 @@
 - https://shopifydeveloper.com/setting-up-a-local-shopify-theme-development-environment/
 - https://shopify.dev/themes/tools/theme-kit
 - https://shopify.dev/api/liquid/tags/theme-tags#form
+- https://shopify.dev/themes/product-merchandising/variants
