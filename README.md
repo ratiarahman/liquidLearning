@@ -39,4 +39,5 @@ LIQUID CONTENT OBJECTS
 - https://shopify.dev/api/liquid/basics/handle
 
 SCHEMA
+- https://shopify.dev/themes/architecture/sections/section-schema
 - https://shopify.dev/themes/architecture/settings#section-schema
