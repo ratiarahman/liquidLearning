@@ -10,6 +10,9 @@ LOCAL ENVIRONMENT SETUP
 - https://shopifydeveloper.com/setting-up-a-local-shopify-theme-development-environment/
 - https://shopify.dev/themes/tools/theme-kit
 
+ARCHITECTURE
+- https://shopify.dev/themes/architecture
+
 LIQUID TAGS
 - https://shopify.dev/api/liquid/tags
 
