@@ -10,6 +10,12 @@ LOCAL ENVIRONMENT SETUP
 - https://shopifydeveloper.com/setting-up-a-local-shopify-theme-development-environment/
 - https://shopify.dev/themes/tools/theme-kit
 
+LIQUID TAGS
+- https://shopify.dev/api/liquid/tags
+
+FILTERS
+- https://shopify.dev/api/liquid/filters
+
 FORM TAGS
 - https://shopify.dev/api/liquid/tags/theme-tags#form
 
