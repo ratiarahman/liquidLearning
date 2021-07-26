@@ -37,3 +37,6 @@ LIQUID CONTENT OBJECTS
 'HANDLE' OBJECT & OBJECT HANDLES(slug)
 - https://shopify.dev/api/liquid/objects/handle
 - https://shopify.dev/api/liquid/basics/handle
+
+SCHEMA
+- https://shopify.dev/themes/architecture/settings#section-schema
