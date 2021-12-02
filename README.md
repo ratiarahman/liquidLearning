@@ -41,3 +41,23 @@ LIQUID CONTENT OBJECTS
 SCHEMA
 - https://shopify.dev/themes/architecture/sections/section-schema
 - https://shopify.dev/themes/architecture/settings#section-schema
+
+
+# Shopify 
+
+- https://help.shopify.com/en/webinars
+- https://www.shopify.com/partners/webinars
+- https://help.shopify.com/en/manual/community
+- https://community.shopify.com/c/shopify-community/ct-p/en?profile.language=en
+- https://www.shopify.com/learn/browse/courses
+- https://www.shopify.ca/blog
+- https://www.shopify.com/partners/blog
+- https://www.shopify.com/partners/guides
+- https://help.shopify.com/en
+- https://shopify.dev/
+- https://events.shopify.com/
+- https://www.shopify.my/success-stories
+- https://www.shopify.com/enterprise/how-customizable-is-shopify
+- https://outofthesandbox.com/blogs/shopify-theme-blog/116997445-how-to-know-its-time-call-in-a-shopify-expert-for-help-with-your-shopify-theme
+- https://www.shopify.com/plus
+
