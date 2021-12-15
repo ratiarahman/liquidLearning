@@ -60,4 +60,6 @@ SCHEMA
 - https://www.shopify.com/enterprise/how-customizable-is-shopify
 - https://outofthesandbox.com/blogs/shopify-theme-blog/116997445-how-to-know-its-time-call-in-a-shopify-expert-for-help-with-your-shopify-theme
 - https://www.shopify.com/plus
+- https://help.shopify.com/txt/product_taxonomy/en.txt
+- https://help.shopify.com/en/manual/products/import-export/using-csv
 
