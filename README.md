@@ -55,6 +55,7 @@ SCHEMA
 - https://www.shopify.com/partners/guides
 - https://help.shopify.com/en
 - https://shopify.dev/
+- https://shopify.dev/themes/getting-started/create
 - https://events.shopify.com/
 - https://www.shopify.my/success-stories
 - https://www.shopify.com/enterprise/how-customizable-is-shopify
