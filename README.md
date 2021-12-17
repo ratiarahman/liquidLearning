@@ -63,4 +63,5 @@ SCHEMA
 - https://www.shopify.com/plus
 - https://help.shopify.com/txt/product_taxonomy/en.txt
 - https://help.shopify.com/en/manual/products/import-export/using-csv
+- https://shopify.github.io/liquid-code-examples/?shpxid=c7c735f3-98E5-4B0D-5DD3-52919B320862
 
